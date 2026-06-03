@@ -1,7 +1,6 @@
 import { useState } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { Search, ArrowRight } from "lucide-react";
-import { section } from "framer-motion/client";
 import { Link } from "react-router-dom";
 
 export default function Product() {
